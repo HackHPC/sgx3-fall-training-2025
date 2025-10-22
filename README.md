@@ -1,5 +1,7 @@
 # Forging the Future: Inside the Fall 2025 SGX3 Training Program
 
+<img src="SGX3%20Fall%20Training%20Kick-off%20Session%201.png" width=200px> 
+
 In an era where computational power isn't just a tool—it's the very engine of discovery—the Fall 2025 SGX3 Training Program stands as a beacon for the next generation of scientific innovators. Hosted by the Elizabeth City State University (ECSU) Center of Excellence in Remote Sensing Education and Research (CERSER) in a dynamic partnership with the NSF SGX3 Center of Excellence at [sciencegateways.org](https://sciencegateways.org), this intensive virtual odyssey is demystifying the arcane world of High-Performance Computing (HPC) and Science Gateways. For the select cohort of trailblazers who've earned their place, it's more than training—it's a launchpad into the frontiers of research, where raw data transforms into profound insights.
 
 ## The Core of Computational Mastery
